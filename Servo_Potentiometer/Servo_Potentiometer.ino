@@ -3,8 +3,8 @@
  by Michal Rinott <http://people.interaction-ivrea.it/m.rinott>
 
  modified on 8 Nov 2013
- by Scott Fitzgerald
- modified by Tamanda Msosa 15 Nov 2019  
+ by Scott Fitzgerald,
+ + Tamanda Msosa 15 Nov 2019  
  http://www.arduino.cc/en/Tutorial/Knob
 */
 
