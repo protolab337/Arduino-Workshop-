@@ -1,2 +1,2 @@
 # Arduino-Workshop-
-Arduino tutorials for beginner prototyping.
+Arduino tutorials for beginner prototyping for IDM.
