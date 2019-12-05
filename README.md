@@ -1,2 +1,2 @@
 # Arduino-Workshop-
-Arduino tutorials for beginner prototyping for IDM.
+Assets and code for the IDM Proto Lab(370 Jay, room 337)
