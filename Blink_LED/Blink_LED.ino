@@ -1,3 +1,10 @@
+/*
+ Setting an led to blink every 1 second 
+ by Adafruit 
+ modified on 15th Nov 2019 
+ by Tamanda Msosa 
+https://www.arduino.cc/en/tutorial/blink
+*/
 
 // Pin 13 has an LED connected on most Arduino boards.
 int led = 13;
